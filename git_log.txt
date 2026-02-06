@@ -1,0 +1,45 @@
+commit 7a68373bca1e2eb349f605e62e4c773b18b52fde
+Merge: c83458d 921595d
+Author: JanFlores95 <jflores0453@gmail.com>
+Date:   Thu Feb 5 20:11:29 2026 -0800
+
+    Resolve merge conflict in index.html
+
+commit 921595ddde6907b93cc46e0d2fa42639c04c6fb4
+Author: JanFlores95 <jflores0453@gmail.com>
+Date:   Thu Feb 5 20:07:13 2026 -0800
+
+    Add favroite movie or game
+
+commit c83458d125d56dd36ace0d98d86b3c2ee88ffd4e
+Author: JanFlores95 <jflores0453@gmail.com>
+Date:   Thu Feb 5 20:05:07 2026 -0800
+
+    Add favorite food
+
+commit 9e4eae30d397b33324d6e30aef3b22a427bb6fa2
+Author: JanFlores95 <jflores0453@gmail.com>
+Date:   Thu Feb 5 20:01:19 2026 -0800
+
+    Add README
+
+commit a8057dfd9a281da3eafbecc3ef7af4a5f0047fad
+Merge: 1d2bfc0 fdc64a1
+Author: JanFlores95 <jflores0453@gmail.com>
+Date:   Thu Feb 5 19:55:57 2026 -0800
+
+    Merge pull request #1 from JanFlores95/info-fill
+    
+    Fill in blanks in index.html
+
+commit fdc64a14a37199ad10c741cfe55d2d19f68f9645
+Author: JanFlores95 <jflores0453@gmail.com>
+Date:   Thu Feb 5 19:40:12 2026 -0800
+
+    Fill in blanks in index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
